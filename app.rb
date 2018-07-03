@@ -1,4 +1,5 @@
 require 'sinatra/base'
+require binding.pry
 
 class App < Sinatra::Base
 
